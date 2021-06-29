@@ -1,4 +1,5 @@
-# Lesson_1_Linux
+# Lesson_1_Linux 
+2021/07/01
 ## Introduction
 * Linux是一套作業系統，實驗室伺服器與外面公司伺服器多數都使用linux系統
 * 可多工、多使用者
