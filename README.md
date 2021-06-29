@@ -8,7 +8,9 @@
 
 ## schedule
 7/1(四) Linux
+
 7/6(二) python basic
+
 7/9(五) python basic
 7/13(二) python pandas
 7/16(五) python numpy、 homework review
