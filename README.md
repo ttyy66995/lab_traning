@@ -20,3 +20,7 @@
 * 8/6(五) Django with MySQL
 
 ## exercise
+## extra skill
+* hackmd
+* git/github
+* leetcode
