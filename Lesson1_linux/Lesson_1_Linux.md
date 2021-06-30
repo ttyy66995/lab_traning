@@ -2,7 +2,7 @@
 2021/07/01
 ## Introduction
 * Linux是一套作業系統，實驗室伺服器與外面公司伺服器多數都使用linux系統
-* 可多工、多使用者
+* 可多工、多使用者 (有分一班使用者/管理員)
 * 速度較快，穩定性、安全性高
 * 較不耗資源
 * 操作較複雜，需要花時間熟悉...
@@ -24,7 +24,7 @@
     * cd . .：退回上一層
     * cd ~ or cd：退回至家目錄
 * **cp** filename new_place：複製filename至new_place
-* **rm** filename new_place：剪下filename至new_place or 重新命名
+* **mv** filename new_place：剪下filename至new_place or 重新命名
 * **less** filename：查看檔案內容 (read only)
 * **cat** filename：顯示檔案內容至終端機介面
 * **htop**：查看伺服器的硬體使用情形，避免佔用過多資源影響其他使用者等
