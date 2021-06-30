@@ -1,5 +1,8 @@
 # 2021 lab traning
-
+## server
+cosbi6
+IP:140.116.214.135
+PORT:32204
 ## skill in this summer
 * linux operation
 * python basic data processing
@@ -7,6 +10,7 @@
 * 
 
 ## schedule
+* 6/30 21:00 測試google meet ([filezilla](https://filezilla-project.org/), [pietty](https://sites.google.com/view/pietty-project/download))
 * 7/1(四) Linux
 * 7/6(二) python basic
 * 7/9(五) python basic
