@@ -1,4 +1,5 @@
 # 2021 lab traning
+https://meet.google.com/wok-yhoc-uua
 ## server
 cosbi6
 
