@@ -45,7 +45,7 @@
 * 推薦網站：[鳥哥的Linux私房菜](http://linux.vbird.org/)
 ## virtual environment 虛擬環境 (!!!)
 如果在同一台伺服器有許多人使用，**每個人都有不同套件、版本需求**，可個別使用各自的虛擬環境建立符合自身需要，避免環境跟套件亂七八糟；若自己有好幾個project，也可以用不同的虛擬環境
-* [virtualenvwrapper](https://www.itread01.com/content/1498915331.html)(在自己電腦嘗試)
+* [virtualenvwrapper](https://www.itread01.com/content/1498915331.html)
 * pip install package_name：安裝某套件
 * 加上 **--python=python數字** 可指定環境所使用的python版本
 * python filename. py：執行某python
