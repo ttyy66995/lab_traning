@@ -29,6 +29,7 @@
 * **cat** filename：顯示檔案內容至終端機介面
 * **htop**：查看伺服器的硬體使用情形，避免佔用過多資源影響其他使用者等
 * **df**：確認硬碟空間
+* **clear**：清除介面
 
 ### EXERCISE 1
 從 ttyy66995/lab_training 中移exercise1.txt到自己的檔案下自己創建的資料夾中，並將其改名，查看內容或印在終端機上
@@ -57,3 +58,5 @@
 * [anaconda](https://www.anaconda.com/products/individual)
 * 常用python IDE：spyder、pycharm、vscode(需自己安裝)
 * 數據分析常用：jupyter notebook
+* 虛擬環境：conda create --name myenv python=3.5
+* 安裝套件：conda install pandas
