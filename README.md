@@ -7,7 +7,8 @@ PORT:32204
 * linux operation
 * python basic data processing
 * pandas、numpy
-* 
+* Django
+* MySQL
 
 ## schedule
 * 6/30 21:00 測試google meet ([filezilla](https://filezilla-project.org/), [pietty](https://sites.google.com/view/pietty-project/download))
