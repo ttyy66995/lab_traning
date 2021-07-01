@@ -57,6 +57,7 @@
 ## Anaconda
 * python的懶人包，除了內建Spyder與Jupyter Notebook編輯器外，更包含了常用的模組，是初學者相當不錯的開發環境
 * [anaconda](https://www.anaconda.com/products/individual)
+* https://walker-a.com/archives/6260
 * 常用python IDE：spyder、pycharm、vscode(需自己安裝)
 * 數據分析常用：jupyter notebook
 * 虛擬環境：conda create --name myenv python=3.5
