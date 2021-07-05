@@ -13,3 +13,8 @@
 
 線上資源：[莫凡](https://mofanpy.com/tutorials/python-basic/basic/)
 
+* 基本語法
+* 處理文件
+* pandas
+* numpy
+* exercise
