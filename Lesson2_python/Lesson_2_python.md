@@ -12,3 +12,4 @@
 學習實驗室常使用之基本技能、語法，而更多延伸使用部分必須自己上網google，未來在寫程式上一定會遇到很多問題，網路資源、大神很多，學會 **google** 是必須的技能
 
 線上資源：[莫凡](https://mofanpy.com/tutorials/python-basic/basic/)
+
