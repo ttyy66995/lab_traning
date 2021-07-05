@@ -17,8 +17,4 @@
 * 處理文件
 * pandas
 * numpy
-<<<<<<< HEAD
 * exercise
-=======
-* exercise
->>>>>>> 6d929185bec68247ece0f7b3efb29c3b0fd9c015
