@@ -28,6 +28,7 @@ PORT:32204
 * 8/6(五) Django with MySQL
 
 ## exercise
+[exercise1](https://drive.google.com/file/d/176jnoR3iWyefklId0z0zKHL3fEkWCZ0R/view?usp=sharing)
 ## extra skill
 * hackmd
 * git/github
