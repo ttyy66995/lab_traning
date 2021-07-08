@@ -29,6 +29,9 @@ PORT:32204
 
 ## exercise
 [exercise1](https://drive.google.com/file/d/176jnoR3iWyefklId0z0zKHL3fEkWCZ0R/view?usp=sharing)
+[exercise2](https://drive.google.com/drive/folders/1M37hfq7Ccj_JGo-VGgCqm3udl4dEBdOj?usp=sharing)
+[exercise3](https://drive.google.com/file/d/1mU98ySQF5-ueZZ8z8kew39lWVWSSm0Es/view?usp=sharing)
+[exercise4](https://drive.google.com/file/d/1R5qDPEj2k_j6AME6wMvsUU3AAHdkfU4A/view?usp=sharing)
 ## extra skill
 * hackmd
 * git/github
