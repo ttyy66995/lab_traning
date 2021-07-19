@@ -31,6 +31,11 @@ PORT:32204
 * [exercise1](https://drive.google.com/file/d/176jnoR3iWyefklId0z0zKHL3fEkWCZ0R/view?usp=sharing)
 * [exercise2](https://drive.google.com/file/d/1E66axzzoCHzTP3pduyMQfknXABF4XBQL/view?usp=sharing)
 * [exercise3](https://drive.google.com/file/d/1mU98ySQF5-ueZZ8z8kew39lWVWSSm0Es/view?usp=sharing)
+1. 整理出所有名字/綽號列表
+2. Input: 使用者輸入一個檔案含有一群想分析的基因ID/Name/Alias
+3. 先檢查是否已為7185 ID,已為ID不必轉，寫入ID
+4. 若非ID, 則用整理好的對照表轉出ID
+5. 統計個數
 * [exercise4](https://drive.google.com/file/d/1R5qDPEj2k_j6AME6wMvsUU3AAHdkfU4A/view?usp=sharing)
 
 ## extra skill
