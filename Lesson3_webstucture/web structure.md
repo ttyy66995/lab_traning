@@ -4,28 +4,26 @@
 
 ## MTV架構
 > M：Models
-T：Templates
-V：Views
+> T：Templates
+> V：Views
 #### 優點
 > 前後端獨立作業
-擁有更多彈性
-較容易維護
-降低複雜度
+> 擁有更多彈性
+> 較容易維護
+> 降低複雜度
 
 ## Front end 
 > 環境架設：VScode
 > 教學平台：w3school
 好用工具：codepen
 
-### HTML
-**網頁的骨幹**
+### HTML(網頁的骨幹)
 > 所有的網頁元素都是由基本的html元素構成，是一種可供瀏覽器解析的語法
 
 
-### CSS
-**網頁的外觀**
+### CSS(網頁的外觀)
 >用來排版、裝飾html元素，
-
+>
 > 好用模板：Bootstrap
 
 ### Exercise1 
@@ -33,9 +31,7 @@ V：Views
 
 
 
-### JavaScript
-
-**網頁的靈魂**
+### JavaScript(網頁的靈魂)
 > 使網頁具有互動性，並操作html元件，前端網頁的好壞，大部分取決於JS
 
 **<補充1>** 
