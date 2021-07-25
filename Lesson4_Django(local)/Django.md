@@ -35,11 +35,11 @@ os.path.join(BASE_DIR, ‘templates’)
 * 在APP資料夾內創建 urls.py
 
 ![](https://i.imgur.com/mKLBU9n.png)
-> <備註>這邊使用進階結構管理:
-> project的 urls.py 中只用來include APP的 urls.py
-> project/project/urls.py
-> app1/urls.py
-> app2/urls.py
+* <備註>這邊使用進階結構管理:
+* project的 urls.py 中只用來include APP的 urls.py
+* project/project/urls.py
+* app1/urls.py
+* app2/urls.py
 
 ### 5.建立static
 * 在 **[name]**/資料夾內創建"static"資料夾，裡面再創建靜態檔案資料夾:css,js,image
