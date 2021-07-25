@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html>
+<head>
+    <title>my_site</title>
+    <link rel="stylesheet" href="{% static 'css/my_site.css' %}">
+</head>
+<body>
+    
+    <form action="" method="POST">
+        {% csrf_token %}
+        <p>Name:</p>
+        <p><input type="text" name="Name" placeholder="你的名字"></p>
+    
+        <p>Comments: </p>
+        <p><textarea name="Comments" rows="5" cols="20"></textarea></p>
+
+        <p>Number1:</p>
+        <p><input type="text" name="Number1" placeholder="1"></p>
+
+        <p>Number2:</p>
+        <p><input type="text" name="Number2" placeholder="1"></p>
+    
+        <p><input type="submit" value="送出資料"></p>
+    
+    </form>
+    <div>
+        {% if number %}
+            <p>{{name}}</p>
+            <p>{{comments}}</p>
+            <p>{{number}}</p>
+        {% endif %}
+    </div>
+</body>
+</html>
