@@ -21,11 +21,10 @@ PORT:32204
 * 7/13(二) python pandas
 * 7/16(五) python numpy、 homework review
 * 7/20(二) web structure、front-end、html,css
-* 7/23(五) Javascript、Jquery
-* 7/27(二) Django introduce and structure-app,setting,url,views,templates
-* 7/30(五) Django request and response(form basic method)
-* 8/3(二) Django request and response(ajax method)
-* 8/6(五) Django with MySQL
+* 7/23(五) Javascript、Jquery、Django introduce and structure-app,setting,url,views,templates
+* 7/27(二) Django request and response(form basic method)
+* 7/30(五) Django request and response(ajax method)
+* 8/3(二) Django with MySQL
 
 ## exercise
 * [exercise1](https://drive.google.com/file/d/176jnoR3iWyefklId0z0zKHL3fEkWCZ0R/view?usp=sharing)
