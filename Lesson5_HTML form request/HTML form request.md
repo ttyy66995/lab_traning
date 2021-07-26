@@ -4,7 +4,7 @@
 ### Asynchronous JavaScript and XML
 * 非同步處理方法 - 以js非同步處理技術
 
-### <form>
+### form
 * 使用<form>這個html元件來傳送資料到後端
 * 可參考以下網頁說明
 1. https://www.w3schools.com/html/html_forms.asp
