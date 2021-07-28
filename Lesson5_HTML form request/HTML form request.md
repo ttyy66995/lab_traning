@@ -16,5 +16,5 @@
 
 如果超過兩個A，則另外出現一個超連結，點下後可連接到你之前做上去的自我介紹網頁。
 
-* hint1:模板語言寫法:https://www.itread01.com/content/1547103261.html
-* hint2:等第: Fail:<50 C:50-69, B:70-89, A:90-100
+* Hint1：模板語言寫法：https://www.itread01.com/content/1547103261.html
+* Hint2：等第： Fail:<50 C:50-69, B:70-89, A:90-100
