@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html>
+<head>
+    <title>ajax</title>
+    <link rel="stylesheet" href="{% static 'css/test_ajax.css' %}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="{% static 'js/test_ajax.js' %}"></script>   
+
+</head>
+<body>
+    
+    {% csrf_token %}
+    <p>Name:</p>
+    <p><input type="text" id="Name" placeholder="你的名字"></p>
+    
+    <p>Comments: </p>
+    <p><textarea id="Comments" rows="5" cols="20"></textarea></p>
+
+    <p>Number1:</p>
+    <p><input type="text" id="Number1" placeholder="1"></p>
+
+    <p>Number2:</p>
+    <p><input type="text" id="Number2" placeholder="1"></p>
+
+    <p><button id="submit">送出資料</button></p>
+    
+    <div>
+        <p id="result_name"></p>
+        <p id="result_comments"></p>
+        <p id="result_number"></p>
+    </div>
+</body>
+</html>
