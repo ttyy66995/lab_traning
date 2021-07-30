@@ -53,6 +53,8 @@
 * 瀏覽器開F12開發者工具找錯誤
 
 9. 完成
+* 每次做完更動，記得到{user}_project/{user}_project/資料夾下執行 "touch wsgi.py" 讓網頁吃到你的更動
+* 在server上，不需要runserver!!!!!
 
 
 
