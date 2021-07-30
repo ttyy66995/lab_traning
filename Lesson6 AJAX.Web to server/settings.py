@@ -78,8 +78,8 @@ WSGI_APPLICATION = 'yee_project.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'yee_database',
+        'ENGINE': 'django.db.backends.sqlite3', 
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
         'USER': 'yee',
         'PASSWORD': '624001479',
         'HOST': 'localhost',
