@@ -24,7 +24,7 @@ PORT:32204
 * 7/23(五) Javascript、Jquery、Django introduce and structure-app,setting,url,views,templates
 * 7/27(二) Django request and response(form basic method)
 * 7/30(五) Django request and response(ajax method)
-* 8/3(二) Django with MySQL
+* 8/6(五) Django with MySQL
 
 ## exercise
 * [exercise1](https://drive.google.com/file/d/176jnoR3iWyefklId0z0zKHL3fEkWCZ0R/view?usp=sharing)
