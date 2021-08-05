@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html lang="en">
+<head>
+        <title>Stock_Search</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="{% static 'css/stock_search.css' %}">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+        <script src="{% static 'js/stock_search.js' %}"></script>
+</head>
+<body>
+    {% csrf_token %}
+
+    <div class="jumbotron text-center bg-danger text-white">
+        <h1>股票代碼查詢</h1>
+    </div>
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+                <h5>股票代碼</h5>
+                <p>
+                <input type='text' id='code_input' placeholder="2330">
+                </p>
+                <button id="submit" >Submit</button>
+            </div>
+            <div class="col-sm-9">
+                <div id="stock"></div>
+            </div>
+        </div>
+    </div>
+      
+</body>
+</html>
