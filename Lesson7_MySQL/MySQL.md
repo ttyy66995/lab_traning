@@ -25,6 +25,7 @@ Django ORM 物件-資料庫關聯操作
 於Linux terminal執行：python manage.py inspectdb > {app}/models.py
 
 執行完後的{app}/models.py
+
 ![](https://i.imgur.com/82wwxaN.png)
 
 ### views.py
