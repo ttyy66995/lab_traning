@@ -6,6 +6,12 @@ cosbi6
 IP:140.116.214.135
 
 PORT:32204
+
+cosbi
+
+IP:140.116.214.130
+
+PORT:32204
 ## skill in this summer
 * linux operation
 * python basic data processing
