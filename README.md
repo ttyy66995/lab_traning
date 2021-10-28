@@ -48,3 +48,6 @@ PORT:32204
 * hackmd
 * git/github
 * leetcode
+
+## videos
+https://drive.google.com/drive/folders/1kfnuFOqX9FIlL-0zkwwAL60jpEkEPSDD?usp=sharing
